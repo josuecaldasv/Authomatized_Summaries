@@ -1,0 +1,66 @@
+Contagem de Portfólio de Interesse_1;Rótulos de Coluna;;;;;;;Contagem de Portfólio de Interesse_1;Rótulos de Coluna;;;;;;
+Rótulos de Linha;Notícia;Outro;Patente;(vazio);Total Geral;;;Rótulos de Linha;América do Norte;América Latina;Asia;Europa;Global;(vazio);Total Geral
+América do Norte;30;25;7;;62;;;Gás;2;;5;3;;;10
+América Latina;51;52;2;;105;;;Geral;5;71;4;51;6;;137
+Asia;22;68;69;;159;;;Logística e Produtos;;;11;53;;;64
+Europa;185;1;22;;208;;;Produtos Sustentáveis;26;32;99;78;;;235
+Global;4;2;;;6;;;Tecnologia de Refino;29;2;40;23;;;94
+(vazio);;;;;;;;(vazio);;;;;;;
+Total Geral;292;148;100;;540;;;Total Geral;62;105;159;208;6;;540
+;;;;;;;;;;;;;;;
+Contagem de Portfólio de Interesse_1;Rótulos de Coluna;;;;;;;;;;;;;;
+Rótulos de Linha;Notícia;Outro;Patente;(vazio);Total Geral;;;;;;;;;;
+Gás;7;;3;;10;;;;;;;;;;
+Geral;81;56;;;137;;;;;;;;;;
+Logística e Produtos;64;;;;64;;;;;;;;;;
+Produtos Sustentáveis;135;71;29;;235;;;;;;;;;;
+Tecnologia de Refino;5;21;68;;94;;;;;;;;;;
+(vazio);;;;;;;;;;;;;;;
+Total Geral;292;148;100;;540;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+Contagem de Portfólio de Interesse_1;Rótulos de Coluna;;;;;;;;;;;;;;
+Rótulos de Linha;Notícia;Outro;Patente;(vazio);Total Geral;;;;;;;;;;
+Armazenamento de Energia;1;4;20;;25;;;;;;;;;;
+Bateria;2;;;;2;;;;;;;;;;
+Bioenergia;21;25;;;46;;;;;;;;;;
+Biomassa;;22;2;;24;;;;;;;;;;
+Biorrefinaria;8;;;;8;;;;;;;;;;
+Captura de Carbono;20;;;;20;;;;;;;;;;
+Catalisador;24;;22;;46;;;;;;;;;;
+Descarbonização;6;2;;;8;;;;;;;;;;
+Economia Circular;28;5;;;33;;;;;;;;;;
+Eletrificação;7;;;;7;;;;;;;;;;
+Energia Eólica;4;;;;4;;;;;;;;;;
+Energia Geotérmica;2;;;;2;;;;;;;;;;
+Energia Renovável;;1;;;1;;;;;;;;;;
+Energia Solar;4;;;;4;;;;;;;;;;
+Energias Renováveis;42;;;;42;;;;;;;;;;
+Fertilizantes;2;;;;2;;;;;;;;;;
+Financiamento;;2;;;2;;;;;;;;;;
+Financiamento Verde;21;22;;;43;;;;;;;;;;
+Gás Natural;5;;;;5;;;;;;;;;;
+Hidrelétrica;2;;;;2;;;;;;;;;;
+Hidrogênio Azul;5;20;;;25;;;;;;;;;;
+Hidrogênio Verde;9;;1;;10;;;;;;;;;;
+Lítio;2;;;;2;;;;;;;;;;
+Mercado de Carbono;2;;;;2;;;;;;;;;;
+Mercado de Combustíveis;;2;;;2;;;;;;;;;;
+Microalga;2;;;;2;;;;;;;;;;
+Microgeração;2;21;;;23;;;;;;;;;;
+Mobilidade Sustentável;25;;;;25;;;;;;;;;;
+Movimentos de Mercado;2;;;;2;;;;;;;;;;
+Petróleo;;1;;;1;;;;;;;;;;
+Processo de Biomassa;;;2;;2;;;;;;;;;;
+Processo de Biorrefinaria;;;2;;2;;;;;;;;;;
+Processo de Separação;;;21;;21;;;;;;;;;;
+Processo Químico;;20;2;;22;;;;;;;;;;
+Química Verde;;;2;;2;;;;;;;;;;
+Resíduos Orgânicos;20;1;;;21;;;;;;;;;;
+Separação de Gás;;;22;;22;;;;;;;;;;
+Tecnologia de Conversão;22;;;;22;;;;;;;;;;
+Tecnologia de Conversão de Biomassa;;;2;;2;;;;;;;;;;
+Tecnologia de Separação;;;2;;2;;;;;;;;;;
+Transporte Sustentável;2;;;;2;;;;;;;;;;
+(vazio);;;;;;;;;;;;;;;
+Total Geral;292;148;100;;540;;;;;;;;;;

@@ -12,7 +12,7 @@ client = OpenAI(api_key=api_key)
 
 input_folder = "input"
 prompt_path = "prompt.txt"
-output_format = "docx"
+output_format = "docx"  # "docx" or "txt"
 output_folder = "output/docx" if output_format == "docx" else "output/txt"
 
 if not os.path.exists(output_folder):

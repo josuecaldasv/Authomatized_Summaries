@@ -1,6 +1,0 @@
-MAPEAMENTO DO USO DE PLÁSTICO NA AGRICULTURA ATRAVÉS DE SENSORIAMENTO REMOTO (10 de fevereiro de 2025)
-
-Pesquisadores do Centro de Engenharia da Plasticultura (CEP), com apoio da FAPESP e Braskem, desenvolveram um sistema de sensoriamento remoto para detectar áreas agrícolas que utilizam plasticultura. Utilizando aprendizado de máquina e séries temporais de imagens de satélite, o sistema identifica áreas de uso de plástico agrícola com precisão próxima a 100%. O foco principal é a detecção de mulching, técnica que usa filme de polietileno para controle de ervas daninhas, umidade e temperatura do solo. O estudo permite analisar a viabilidade de sistemas de logística reversa para o manejo do plástico agrícola, cuja infraestrutura de reciclagem é muitas vezes insuficiente. A pesquisa, publicada na Environmental Science and Pollution Research, representa um avanço para a circularidade de plásticos na agricultura brasileira. A falta de legislação específica para o manejo do plástico na agricultura é uma preocupação crescente.
-
-(Fonte: Agência FAPESP)
-▪️ Tipo: Notícia; ▪️ Região: América Latina; ▪️ Palavras-Chave: Plasticultura, Sensoriamento Remoto, Logística Reversa; ▪️ Portfólio de Interesse: Geral.

@@ -25,6 +25,41 @@ def load_news(input_folder: str) -> list:
             files.append((file_name, content))
     return files
 
+def load_news_from_list(docs_list: list) -> list:
+    """
+    Returns a list of tuples (file_name, text_content).
+    Supports .txt and .pdf files inside the input_folder.
+    """
+    files = []
+    for file_name in docs_list:
+        file_path = file_name
+        if file_name.endswith('.txt'):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            files.append((file_name, content))
+        elif file_name.endswith('.pdf'):
+            content = extract_text_from_pdf(file_path)
+            files.append((file_name, content))
+    return files
+
+def load_news_from_list(docs_list: list) -> list:
+    """
+    Returns a list of tuples (file_name, text_content).
+    Supports .txt and .pdf files inside the input_folder.
+    """
+    files = []
+    for file_name in docs_list:
+        #file_path = os.path.join(input_folder, file_name)
+        file_path = file_name
+        if file_name.endswith('.txt'):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            files.append((file_name, content))
+        elif file_name.endswith('.pdf'):
+            content = extract_text_from_pdf(file_path)
+            files.append((file_name, content))
+    return files
+
 def extract_text_from_pdf(pdf_path: str) -> str:
     """Extracts text content from a PDF file."""
     text = ""
